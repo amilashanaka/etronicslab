@@ -1,0 +1,1 @@
+[26-Apr-2020 14:15:01 America/Boise] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home1/aturalge/public_html/etronics/contact/PHPMailer-master/PHPMailerAutoload.php on line 45
