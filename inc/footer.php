@@ -12,9 +12,17 @@
             <!-- /column -->
             <div class="col-md-4 col-lg-3">
                 <div class="widget">
-                    <h3 class="widget-title">Get in Touch</h3>
-                    <address>Moonshine St.<br class="d-none d-lg-block" /> 14/05 Light City,<br class="d-none d-lg-block" /> London, United Kingdom</address>
-                    <a href="mailto:first.last@email.com">hello@etronicsolutions.com</a><br /> +00 (128) 456 78 90
+                    <h3 class="widget-title">Get in Touch - Malaysia</h3>
+                    <address>No: 697, Jalan Damansara, Taman<br class="d-none d-lg-block" /> Tun Dr Ismail, 60000. Wilayah<br class="d-none d-lg-block" /> Persekutuan Kuala Lumpur, Malaysia </address>
+                    <a href="mailto:first.last@email.com">hello@etronicsolutions.com</a><br /> +60 16-548 4973
+                </div>
+                <!-- /.widget -->
+            </div>
+            <div class="col-md-4 col-lg-3">
+                <div class="widget">
+                    <h3 class="widget-title">Get in Touch - Sri Lanka</h3>
+                    <address>No: 209/1, 5th Mile Post,<br class="d-none d-lg-block" /> Nugawela, Kandy 20073<br class="d-none d-lg-block" /> Kandy Sri Lanka </address>
+                    <a href="mailto:first.last@email.com">hello@etronicsolutions.com</a><br /> +94 (081) 20 50 437
                 </div>
                 <!-- /.widget -->
             </div>
@@ -35,7 +43,7 @@
             </div>
             <!-- /column -->
             <div class="space30 d-none d-md-block d-lg-none"></div>
-            <div class="col-md-12 col-lg-3">
+<!--            <div class="col-md-12 col-lg-3">
                 <div class="widget">
                     <h3 class="widget-title">Our Newsletter</h3>
                     <p>Subscribe to our newsletter to get our news delivered to your inbox!</p>
@@ -45,7 +53,7 @@
                             <div id="mc_embed_signup_scroll" class="input-group">
                                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" id="mce-EMAIL" placeholder="Email Address" required>
                                 <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-rounded btn-default mr-0 mb-0 pull-right">Join</button>
-                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                 real people should not fill this in and expect good things - do not remove this or risk form bot signups
                                 <div style="position: absolute; left: -5000px;" aria-hidden="true">
                                     <input type="text" name="b_ddc180777a163e0f9f66ee014_056957de28" tabindex="-1" value="">
                                 </div>
@@ -53,10 +61,10 @@
                             </div>
                         </form>
                     </div>
-                    <!-- /.newsletter-wrapper -->
+                     /.newsletter-wrapper 
                 </div>
-                <!-- /.widget -->
-            </div>
+                 /.widget 
+            </div>-->
             <!-- /column -->
         </div>
         <!--/.row -->

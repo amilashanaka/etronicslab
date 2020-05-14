@@ -6,8 +6,11 @@
     <div class="space20"></div>
     <div class="widget">
         <h5 class="widget-title">Contact Info</h5>
-        <address> Moonshine St. 14/05 <br /> Light City, London <div class="space20"></div>
-            <a href="mailto:first.last@email.com" class="nocolor">hello@etronicsolutions.com</a><br /> +00 (123) 456 78 90 </address>
+        <address> No: 697, Jalan Damansara, <br /> Taman Tun Dr Ismail, 60000.<br /> Wilayah Persekutuan Kuala Lumpur, Malaysia<div class="space20"></div>
+            <a href="mailto:hello@etronicsolutions.com" class="nocolor">hello@etronicsolutions.com</a><br /> +60 16-548 4973 </address>
+
+        <address> No: 209/1, 5th Mile Post, <br /> Nugawela, Kandy 20073<br /> Kandy Sri Lanka<div class="space20"></div>
+            <a href="mailto:hello@etronicsolutions.com" class="nocolor">hello@etronicsolutions.com</a><br /> +94 (081) 20 50 437 </address>
     </div>
     <!-- /.widget -->
     <div class="widget">

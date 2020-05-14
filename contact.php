@@ -17,18 +17,19 @@ include_once './inc/slider.php';
         <div class="row text-center gutter-60">
             <div class="col-md-4">
                 <div class="icon icon-svg mb-20"><img src="style/images/icons/ui-gps.png" alt="" /></div>
-                <p class="mb-0">Moon Street Light Avenue<br> 14/05 Jupiter, JP 80630</p>
+                <p class="mb-0">No: 697, Jalan Damansara,<br> Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia</p>
             </div>
             <!--/column -->
             <div class="col-md-4">
                 <div class="icon icon-svg mb-20"><img src="style/images/icons/co-telephone.png" alt="" /></div>
-                <p class="mb-0">00 (123) 456 78 90<br> 00 (987) 654 32 10 </p>
+                <p class="mb-0">+60 16-548 4973<br> +94 81 205 0437 </p>
             </div>
             <!--/column -->
             <div class="col-md-4">
                 <div class="icon icon-svg mb-20"><img src="style/images/icons/co-email-5.png" alt="" /></div>
-                <p class="mb-0"><a class="nocolor" href="mailto:#">manager@email.com</a><br>
-                    <a class="nocolor" href="mailto:#">asistant@email.com</a></p>
+                <p class="mb-0"><a class="nocolor" href="mailto:hello@etronicsolutions.com">hello@etronicsolutions.com</a><br>
+                    <!--<a class="nocolor" href="mailto:#">asistant@email.com</a>-->
+                </p>
             </div>
             <!--/column -->
         </div>
