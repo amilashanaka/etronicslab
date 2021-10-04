@@ -21,7 +21,7 @@
             <div class="col-md-4 col-lg-3">
                 <div class="widget">
                     <h3 class="widget-title">Get in Touch - Sri Lanka</h3>
-                    <address>No: 209/1, 5th Mile Post,<br class="d-none d-lg-block" /> Nugawela, Kandy 20073<br class="d-none d-lg-block" /> Kandy Sri Lanka </address>
+                    <address>No:11/46 Ranashinghe Mw , Hiripitiya,<br class="d-none d-lg-block" /> Nugawela, Kandy 20073<br class="d-none d-lg-block" /> Kandy Sri Lanka </address>
                     <a href="mailto:first.last@email.com">hello@etronicsolutions.com</a><br /> +94 (081) 20 50 437
                 </div>
                 <!-- /.widget -->
