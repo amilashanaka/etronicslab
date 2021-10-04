@@ -9,7 +9,7 @@
         <address> No: 697, Jalan Damansara, <br /> Taman Tun Dr Ismail, 60000.<br /> Wilayah Persekutuan Kuala Lumpur, Malaysia<div class="space20"></div>
             <a href="mailto:hello@etronicsolutions.com" class="nocolor">hello@etronicsolutions.com</a><br /> +60 16-548 4973 </address>
 
-        <address> No: 209/1, 5th Mile Post, <br /> Nugawela, Kandy 20073<br /> Kandy Sri Lanka<div class="space20"></div>
+        <address>No: 11/46, Ranashinghe Mw, Hiripitiya <br /> Kottawa, Kandy 20073<br /> Kandy Sri Lanka<div class="space20"></div>
             <a href="mailto:hello@etronicsolutions.com" class="nocolor">hello@etronicsolutions.com</a><br /> +94 (081) 20 50 437 </address>
     </div>
     <!-- /.widget -->
